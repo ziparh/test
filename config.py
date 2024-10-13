@@ -1,2 +1,1 @@
-tokenf = "Tokenfff" # токен для бота f
-
+token = "Tokenfff" # токен для бота f
